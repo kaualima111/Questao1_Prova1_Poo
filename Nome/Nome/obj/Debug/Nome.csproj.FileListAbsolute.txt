@@ -1,0 +1,7 @@
+C:\Users\patom\source\repos\Nome\Nome\bin\Debug\Nome.exe.config
+C:\Users\patom\source\repos\Nome\Nome\bin\Debug\Nome.exe
+C:\Users\patom\source\repos\Nome\Nome\bin\Debug\Nome.pdb
+C:\Users\patom\source\repos\Nome\Nome\obj\Debug\Nome.csproj.AssemblyReference.cache
+C:\Users\patom\source\repos\Nome\Nome\obj\Debug\Nome.csproj.CoreCompileInputs.cache
+C:\Users\patom\source\repos\Nome\Nome\obj\Debug\Nome.exe
+C:\Users\patom\source\repos\Nome\Nome\obj\Debug\Nome.pdb
